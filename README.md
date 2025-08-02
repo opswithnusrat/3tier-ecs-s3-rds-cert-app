@@ -1,6 +1,5 @@
 
 
-```markdown
 # 🚀 Full-Stack 3-tier ECS AWS Infrastructure with Terraform
 
 This Terraform project provisions a scalable AWS infrastructure including:
@@ -12,8 +11,7 @@ This Terraform project provisions a scalable AWS infrastructure including:
 - 🛢️ RDS PostgreSQL database for persistent storage  
 - 🪣 S3 for static assets  
 - 🌍 CloudFront for fast, global content delivery
-```
-
+  
 ## High Lavel Diagram:
 ![Architecture](images/ecs-fargat.png)
 ---
